@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projet Landing Page tem como base a aplicação de HTML, CSS e criação de funcionalidades com JavaScript para base fixação, afim de estudos.
 
-- [Visite o projeto online](https://felipedestro.github.io/nlw-setup)
+- [Visite o projeto online](https://landingpag-arq.netlify.app/)
 
 ## 🔖 Layout
 
