@@ -34,7 +34,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Landing Page tem como base a aplicação de HTML, CSS e criação de funcionalidades com JavaScript para base fixação de conteúdo, afim de estudos.
 
-- [Visite o projeto online](https://landingpag-arq.netlify.app/)
+### Desafio 01 - Resolução:
+
+- [Projeto online](https://landingpag-arq.netlify.app/)
+- [Planilha de dados](https://encurtador.com.br/eEFW2)
 
 ## 🔖 Layout
 
