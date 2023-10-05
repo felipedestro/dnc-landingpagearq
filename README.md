@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projet Landing Page tem como base a aplicação de HTML, CSS e criação de funcionalidades com JavaScript para base fixação, afim de estudos.
+O projeto Landing Page tem como base a aplicação de HTML, CSS e criação de funcionalidades com JavaScript para base fixação de conteúdo, afim de estudos.
 
 - [Visite o projeto online](https://landingpag-arq.netlify.app/)
 
@@ -47,4 +47,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Felipe Destro com aulas da [Escola DNC](https://www.escoladnc.com.br/) 👋
+Feito por Felipe Destro com aulas da [Escola DNC](https://www.escoladnc.com.br/) 👋

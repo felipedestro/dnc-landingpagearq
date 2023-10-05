@@ -173,14 +173,20 @@
         margin: 20px 0 0 0;
     }
     #photo {
-        width: 320px;
+        width: 300px;
     }
+
+    #formulario {
+        margin-top: 35px;
+        padding: 20px;
+    }
+
     #formulario h1{
         font-size: 18px;
     }
 
     #formulario input {
-        width: 250px;
+        width: 220px;
         height: 30px;
     }
 
